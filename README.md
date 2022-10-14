@@ -8,4 +8,7 @@ Out/22.
 .
 Durante o bootcamp, pude executar enquanto aprendia as melhores práticas de programas de Infraestructure as Code, Pipelines Devops, Conteinerização, Orquestração de Containers, Cloud (Aws e GCP) e outras tecnologias correlatas.
 .
+.
+.
+.
 ![image](https://user-images.githubusercontent.com/15808208/195869329-795e055b-fd5d-472f-a1c0-4774fb12cec5.png)
